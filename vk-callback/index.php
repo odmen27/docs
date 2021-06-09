@@ -4,7 +4,7 @@
   }
 
   $my_id = '374811416';
-  $my_token = 'd5ff3fc7f302a1a42ebf0141d95ece13dfb7eac47c6a29a934fb8aceedb6261090ab60b7337117a838dfb';
+  $my_token = 'myTokenHere';
 
   $group_id = '68473974';
   $peer_id = '2000000005';
@@ -12,7 +12,7 @@
 
   $confirmation_token = 'df762773';
 
-  $token = 'c273134bc2e4a479c7c23a8a1fc25098f67485b09b5016c3dcf0f9308e1ed77887bc5bc3d770781523650';
+  $token = 'clubTokenHere';
 
   $data = json_decode(file_get_contents('php://input'));
 
